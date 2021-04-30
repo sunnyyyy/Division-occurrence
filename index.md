@@ -1,3 +1,7 @@
+---
+youtubeId: UY_dY53kszk
+---
+
 ## Introduction
 
 Division occurence is an audio visual project that aims to explore the multi definition of space through sound. Heavily insipred by experiemental music notation, the flexibility of experimental music notation enables performers to expand(vertical or horizontal), contract, or remain the space as it seems to be. Releasing nodes from two dimension to freely float to right, left, back, forward, up, down, and all points between without reading direction. Composers are regarding sound as points that scatter in the space of notation, enabling performers to start from random point and connect them freely, the space can expand, shrink or remain as defined. The commonality of connecting points as a composition is adding another dimension that beyond euclidean geometry.
@@ -7,6 +11,8 @@ Music, often defined as the science or art of ordering tones or sounds in succes
 You can use the [editor on GitHub](https://github.com/sunnyyyy/Division-occurrence/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+{% include youtubePlayer.html id=page.UY_dY53kszk %}
 
 ### Technical and process 
 
