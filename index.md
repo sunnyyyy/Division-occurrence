@@ -10,7 +10,7 @@ Music, often defined as the science or art of ordering tones or sounds in succes
 
 {% include youtubePlayer.html id=page.UY_dY53kszk %}
 
-If the embeded video fail to play, here's the video link [click](https://www.youtube.com/watch?v=UY_dY53kszk&t=1s) 
+If the embeded video fail to play, here's the video link [click](https://youtu.be/UY_dY53kszk) 
 
 ### Technical and process 
 
