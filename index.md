@@ -24,5 +24,5 @@ I use touchOsc to send accelerometer data to openframework and map the xy value(
 
 The audio is based on sinewaves with 8 different pitches. Metronome ticks per 7 frames every so often. Iteration increase every 4 bars, the pitch will also change based on the root chords for the arpeggio. The osc messages are mapped into physical position on the screen, and also influencing the audio output, x position as the cutoff point of the lowpass filter, y position as the resonance of the filter.  
 
-![Image](cover.gif)![2](https://user-images.githubusercontent.com/13233219/116788932-34ac5600-aaa4-11eb-8ef0-6122d203b80b.png)
+![Image](cover.gif)
 
