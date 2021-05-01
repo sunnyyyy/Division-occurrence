@@ -8,7 +8,7 @@ Division occurence is an audio visual project that aims to explore the multi def
 
 Music, often defined as the science or art of ordering tones or sounds in succession, in combination, and in temporal relationships to produce a composition having unity and continuity. In my perspective, it is about how people dividing and arranging a static or non-static space and so does visual. Even just a thin string is cutting the space into half. Two parallel lines can trick your brain process the visual has a depth. In this work, I want to interprete the idea space by playing with audio and visual by using the simplest elements.
 
-index:     youtubeId: UY_dY53kszk
+Example:     youtubeId: lDi9uFcD7XI
 
 {% include youtubePlayer.html id=page.UY_dY53kszk %}
 
