@@ -10,6 +10,8 @@ Music, often defined as the science or art of ordering tones or sounds in succes
 
 {% include youtubePlayer.html id=page.UY_dY53kszk %}
 
+If the embeded video fail to play, here's the video link [click](https://www.youtube.com/watch?v=UY_dY53kszk&t=1s) 
+
 ### Technical and process 
 
 This project aims to create music only with pure sine waves with sound effects like envelopes, filters, frequency modulation and so on. The biggest challenge I encountered is mapping the sound data to create visuals. I have try different numbers of mapping to see the results match the sound or not.
