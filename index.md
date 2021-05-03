@@ -1,6 +1,5 @@
 ---
 youtubeId:UY_dY53kszk
-countryId:UY_dY53kszk
 
 ---
 
