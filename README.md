@@ -6,8 +6,6 @@ Division occurence is an audio visual project that aims to explore the multi def
 The notion of space itself, as it is used in music – as well as in many other fields – has many senses; as the French writer Georges Perecwould say, there are »spaces of space«.
 I see sound as a way to position points as vectors and by iterating them constructs the space. In this project, I use hand movements in physical world as a trigger of energy that change the audio output and camera movements.
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
 Technical and process
 This project aims to create music only with pure sine waves with sound effects like envelopes, filters, frequency modulation and so on. The biggest challenge I encountered is mapping the sound data to create visuals. I have try different numbers of mapping to see the results match the sound or not.
 
