@@ -15,7 +15,6 @@ Example:     youtubeId: UY_dY53kszk
 
 {% include youtubePlayer.html id=page.UY_dY53kszk %}
 
-If the embeded video fail to play, here's the video link [click](https://youtu.be/UY_dY53kszk) 
 
 ### Technical and process 
 
