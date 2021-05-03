@@ -7,14 +7,8 @@ youtubeId:UY_dY53kszk
 Division occurence is an audio visual project that aims to explore the multi definition of space through sound. Heavily insipred by experiemental music notation, the flexibility of experimental music notation enables performers to expand(vertical or horizontal), contract, or remain the space as it seems to be. Releasing nodes from two dimension to freely float to right, left, back, forward, up, down, and all points between without reading direction. Composers are regarding sound as points that scatter in the space of notation, enabling performers to start from random point and connect them freely, the space can expand, shrink or remain as defined. The commonality of connecting points as a composition is adding another dimension that beyond euclidean geometry.
 
 Music, often defined as the science or art of ordering tones or sounds in succession, in combination, and in temporal relationships to produce a composition having unity and continuity. In my perspective, it is about how people dividing and arranging a static or non-static space and so does visual. Even just a thin string is cutting the space into half. Two parallel lines can trick your brain process the visual has a depth. In this work, I want to interprete the idea space by playing with audio and visual by using the simplest elements.
-<!---
-Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
-
-Example:     youtubeId: UY_dY53kszk
--->
 
 {% include youtubePlayer.html id=page.UY_dY53kszk %}
-
 
 ### Technical and process 
 
