@@ -1,6 +1,4 @@
----
-youtubeId: UY_dY53kszk
----
+
 
 # Division-occurrence
 ![Image](cover.gif)
@@ -13,7 +11,7 @@ I see sound as a way to position points as vectors and by iterating them constru
 Technical and process
 This project aims to create music only with pure sine waves with sound effects like envelopes, filters, frequency modulation and so on. The biggest challenge I encountered is mapping the sound data to create visuals. I have try different numbers of mapping to see the results match the sound or not.
 
-{% include youtubePlayer.html id=page.UY_dY53kszk %}
+[demo](https://youtu.be/UY_dY53kszk)
 
 -ofxOsc
 
