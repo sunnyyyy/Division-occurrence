@@ -11,6 +11,8 @@ I see sound as a way to position points as vectors and by iterating them constru
 Technical and process
 This project aims to create music only with pure sine waves with sound effects like envelopes, filters, frequency modulation and so on. The biggest challenge I encountered is mapping the sound data to create visuals. I have try different numbers of mapping to see the results match the sound or not.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qu4MriCxUXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [demo](https://youtu.be/Qu4MriCxUXA)
 
 -ofxOsc
